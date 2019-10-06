@@ -22,7 +22,7 @@ figlet ProCyberNET|lolcat
 
 echo -e  "_____________________________________________________________"
 echo -e  "Tools    : Pro Cyber NET $white         " |lolcat
-echo -e  "Creadby  : Theo, Erichon $white   " |lolcat
+echo -e  "Creadby  : Theo,README.mn $white   " |lolcat
 echo -e  "Contact  : Procybernet3@gmail.com $white " |lolcat
 echo -e  "_____________________________________________________________"
 
